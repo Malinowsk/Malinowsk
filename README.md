@@ -1,5 +1,8 @@
 ### Hi there, I'm Juan Ignacio 👋
 ***
+<h1 align="center">Hi 👋, I'm 
+Juan Ignacio</a></h1>
+***
 
 ### Languages:
 
