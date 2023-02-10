@@ -3,7 +3,7 @@
 
 ### Languages:
 
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" target="_blank" width="40" height="40"/> </code>](https://www.oracle.com/ar/java/technologies/)
+[<code target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> </code>](https://www.oracle.com/ar/java/technologies/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" target="_blank" width="40" height="40"/> </code>](https://isocpp.org/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" target="_blank" width="40" height="40"/> </code>](https://www.w3schools.com/c/index.php)
 
