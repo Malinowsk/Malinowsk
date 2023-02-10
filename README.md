@@ -1,10 +1,8 @@
-### Hi there, I'm Juan Ignacio 👋
-***
-<h1 align="center">Hi 👋, I'm 
-Juan Ignacio</a></h1>
+<h1 align="center">Hi 👋, I'm Juan Ignacio</a></h1>
+
 ***
 
-### Languages:
+<h2> Languages: </h2>
 
 [<code target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> </code>](https://www.oracle.com/ar/java/technologies/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" target="_blank" width="40" height="40"/> </code>](https://isocpp.org/)
