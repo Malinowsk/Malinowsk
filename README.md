@@ -1,28 +1,16 @@
 ### Hi there, I'm Juan Ignacio 👋
 ***
-<!--
-**malinowsk/malinowsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Languages:
+
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" target="_blank" width="40" height="40"/> </code>](https://www.oracle.com/ar/java/technologies/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" target="_blank" width="40" height="40"/> </code>](https://isocpp.org/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/c/c-original.svg" title="C" alt="C" target="_blank" width="40" height="40"/> </code>](https://www.w3schools.com/c/index.php)
 
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> </code>](https://www.typescriptlang.org/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> </code>](https://www.python.org/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> </code>](https://www.php.net/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> </code>](https://www.oracle.com/ar/java/technologies/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/> </code>](https://isocpp.org/)
 
 ### Technologies and Frameworks:
 
