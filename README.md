@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Ignacio</a></h1>
 
-***
-
 <h2> Languages: </h2>
 
 [<code target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/> </code>](https://www.oracle.com/ar/java/technologies/)
@@ -13,7 +11,7 @@
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/> </code>](https://www.r-project.org/)
 [<code> <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" title="VisualBasic6.0" alt="VisualBasic6.0" width="40" height="40"/> </code>](https://es.wikipedia.org/wiki/Visual_Basic_for_Applications)
 
-### Technologies and Frameworks:
+<h2> Technologies and Frameworks: </h2>
 
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/> </code>](https://flask.palletsprojects.com/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs" width="40" height="40"/> </code>](https://vuejs.org/)
@@ -26,7 +24,7 @@
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/> </code>](https://www.sqlalchemy.org/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> </code>](https://nodejs.org/)
 
-### Tools:
+<h2> Tools: </h2>
 
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/> </code>](https://code.visualstudio.com/)
 [<code> <img src="https://brandslogos.com/wp-content/uploads/thumbs/intellij-idea-logo-vector.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/> </code>](https://www.jetbrains.com/idea/)
