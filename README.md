@@ -36,7 +36,7 @@
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> </code>](https://help.figma.com/hc/)
 [<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/800px-UML_logo.svg.png" title="UML" alt="UML" width="50" height="40"/> </code>](https://www.uml-diagrams.org/)
 
-***
+<h2> Estadísticas: </h2>
 
 <a href="https://github.com/Malinowsk">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malinowsk&theme=dracula" alt="Juan Ignacio Rago's GitHub streak stats" />
