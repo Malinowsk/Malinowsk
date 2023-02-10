@@ -9,8 +9,8 @@
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> </code>](https://www.python.org/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> </code>](https://www.php.net/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/> </code>]()
-[<code> <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" title="VisualBasic6.0" alt="VisualBasic6.0" width="40" height="40"/> </code>]()
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/> </code>](https://www.r-project.org/)
+[<code> <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" title="VisualBasic6.0" alt="VisualBasic6.0" width="40" height="40"/> </code>](https://es.wikipedia.org/wiki/Visual_Basic_for_Applications)
 
 ### Technologies and Frameworks:
 
