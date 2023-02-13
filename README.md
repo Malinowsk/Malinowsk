@@ -20,11 +20,11 @@ MicrosoftSQLServer" alt="MicrosoftSQLServer" width="40" height="40"/> </code>](h
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </code>](https://www.mysql.com/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </code>](https://git-scm.com/doc)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/></code>](https://support.atlassian.com/trello/docs/what-is-trello/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> </code>](https://es.reactjs.org/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> </code>](https://linuxmint.com/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/> </code>](https://www.gnu.org/software/bash/bash.html)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> </code>](https://es.reactjs.org/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </code>](https://git-scm.com/doc)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/></code>](https://support.atlassian.com/trello/docs/what-is-trello/)
 
 <!--
 <h2> Tools: </h2>
