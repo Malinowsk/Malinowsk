@@ -11,10 +11,8 @@
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/> </code>](https://www.r-project.org/)
 [<code> <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" title="VisualBasic6.0" alt="VisualBasic6.0" width="40" height="40"/> </code>](https://es.wikipedia.org/wiki/Visual_Basic_for_Applications)
 
-<!--
+
 <h2> Technologies and Frameworks: </h2>
-
-
 
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/PostgreSQL-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> </code>](https://www.PostgreSQL.com/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -23,6 +21,8 @@
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </code>](https://www.mysql.com/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> </code>](https://nodejs.org/)
 
+
+<!--
 <h2> Tools: </h2>
 
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/> </code>](https://code.visualstudio.com/)
