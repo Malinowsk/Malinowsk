@@ -14,7 +14,7 @@
 
 <h2> Technologies and Frameworks: </h2>
 
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/PostgreSQL-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> </code>](https://www.PostgreSQL.com/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> </code>](https://www.PostgreSQL.com/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/> </code>](https://getbootstrap.com/)
