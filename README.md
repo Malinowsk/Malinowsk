@@ -12,7 +12,7 @@
 [<code> <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" title="VisualBasic6.0" alt="VisualBasic6.0" width="40" height="40"/> </code>](https://es.wikipedia.org/wiki/Visual_Basic_for_Applications)
 
 
-<h2> Technologies and Frameworks: </h2>
+<h2> Technologies and Tools: </h2>
 
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> </code>](https://https://www.postgresql.org/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="
