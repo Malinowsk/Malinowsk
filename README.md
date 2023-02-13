@@ -18,21 +18,17 @@
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="
 MicrosoftSQLServer" alt="MicrosoftSQLServer" width="40" height="40"/> </code>](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </code>](https://www.mysql.com/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/CSS
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </code>](https://git-scm.com/doc)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/></code>](https://support.atlassian.com/trello/docs/what-is-trello/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/> </code>](https://getbootstrap.com/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> </code>](https://nodejs.org/)
-
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> </code>](https://linuxmint.com/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/> </code>](https://www.gnu.org/software/bash/bash.html)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> </code>](https://es.reactjs.org/)
 
 <!--
 <h2> Tools: </h2>
 
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/> </code>](https://code.visualstudio.com/)
-[<code> <img src="https://brandslogos.com/wp-content/uploads/thumbs/intellij-idea-logo-vector.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/> </code>](https://www.jetbrains.com/idea/)
-[<code> <img src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png" title="Clion" alt="Clion" width="40" height="40"/> </code>](https://www.jetbrains.com/clion/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/> </code>](https://httpd.apache.org/docs/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> </code>](https://linuxmint.com/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NginX" alt="NginX" width="40" height="40"/> </code>](https://nginx.org/docs/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> </code>](https://help.figma.com/hc/)
