@@ -14,15 +14,13 @@
 <!--
 <h2> Technologies and Frameworks: </h2>
 
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/> </code>](https://flask.palletsprojects.com/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs" width="40" height="40"/> </code>](https://vuejs.org/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/> </code>](https://angular.io/)
+
+
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/PostgreSQL-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> </code>](https://www.PostgreSQL.com/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/> </code>](https://getbootstrap.com/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/> </code>](https://tailwindcss.com/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </code>](https://www.mysql.com/)
-[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/> </code>](https://www.sqlalchemy.org/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> </code>](https://nodejs.org/)
 
 <h2> Tools: </h2>
