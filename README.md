@@ -26,7 +26,6 @@ MicrosoftSQLServer" alt="MicrosoftSQLServer" width="40" height="40"/> </code>](h
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/> </code>](https://www.gnu.org/software/bash/bash.html)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </code>](https://git-scm.com/doc)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/></code>](https://support.atlassian.com/trello/docs/what-is-trello/)
-
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/></code>](https://es.wikipedia.org/wiki/NumPy)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/></code>](https://es.wikipedia.org/wiki/Pandas_(software))
 
