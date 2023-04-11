@@ -50,3 +50,8 @@ MicrosoftSQLServer" alt="MicrosoftSQLServer" width="40" height="40"/> </code>](h
   <img src="https://github-readme-stats.vercel.app/api?username=Malinowsk&count_private=true&show_icons=true&theme=dracula" alt="Juan Ignacio Rago's GitHub Stats" />
 </a>
 
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=malinowsk&show_icons=true&include_all_commits=true&theme=buefy&hide_rank=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinowsk&layout=compact&theme=buefy&langs_count=8"/>
+</div>
