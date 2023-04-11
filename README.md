@@ -42,14 +42,14 @@ MicrosoftSQLServer" alt="MicrosoftSQLServer" width="40" height="40"/> </code>](h
 [<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/800px-UML_logo.svg.png" title="UML" alt="UML" width="50" height="40"/> </code>](https://www.uml-diagrams.org/)
 -->
 <h2> Estadísticas: </h2>
-
+<div align="center">
 <a href="https://github.com/Malinowsk">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malinowsk&theme=dracula" alt="Juan Ignacio Rago's GitHub streak stats" />
 </a>
 <a href="https://github.com/Malinowsk">
   <img src="https://github-readme-stats.vercel.app/api?username=Malinowsk&count_private=true&show_icons=true&theme=dracula" alt="Juan Ignacio Rago's GitHub Stats" />
 </a>
-
+</div>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=malinowsk&show_icons=true&include_all_commits=true&theme=buefy&hide_rank=true"/>
