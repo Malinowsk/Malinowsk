@@ -3,15 +3,15 @@
 <h2> Languages: </h2>
 
 <div align="center">
-  [<code target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></code>](https://www.oracle.com/ar/java/technologies/)
-  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" target="_blank" width="40" height="40"/> </code>](https://isocpp.org/)
-  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" target="_blank" width="40" height="40"/> </code>(https://www.w3schools.com/c/index.php)
-  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" target="_blank" width="40" height="40"/></code>](https://learn.microsoft.com/es-es/dotnet/csharp/)
-  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> </code>(https://www.python.org/)
-  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> </code>(https://www.php.net/)
-  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/> </code>](https://www.r-project.org/)
-  [<code> <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" title="VisualBasic6.0" alt="VisualBasic6.0" width="40" height="40"/></code>](https://es.wikipedia.org/wiki/Visual_Basic_for_Applications)
+[<code target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></code>](https://www.oracle.com/ar/java/technologies/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" target="_blank" width="40" height="40"/> </code>](https://isocpp.org/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" target="_blank" width="40" height="40"/> </code>(https://www.w3schools.com/c/index.php)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" target="_blank" width="40" height="40"/></code>](https://learn.microsoft.com/es-es/dotnet/csharp/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> </code>(https://www.python.org/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> </code>(https://www.php.net/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/> </code>](https://www.r-project.org/)
+[<code> <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" title="VisualBasic6.0" alt="VisualBasic6.0" width="40" height="40"/></code>](https://es.wikipedia.org/wiki/Visual_Basic_for_Applications)
 </div>
 
 <h2> Technologies and Tools: </h2>
