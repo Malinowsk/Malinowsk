@@ -26,7 +26,8 @@
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/></code>](https://es.wikipedia.org/wiki/NumPy)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/></code>](https://es.wikipedia.org/wiki/Pandas_(software))
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></code>](https://www.docker.com/)
- 
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Docker" alt="Django" width="40" height="40"/></code>](https://www.django.com/)
+  
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </code>](https://git-scm.com/doc)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/></code>](https://support.atlassian.com/trello/docs/what-is-trello/)
   
