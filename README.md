@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, yo soy Juan Ignacio</a></h1>
+<h1 align="center"><a>Hola 👋, yo soy Juan Ignacio</a></h1>
 
 <h2> Languajes: </h2>
 
