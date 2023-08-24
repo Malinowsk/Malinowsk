@@ -1,3 +1,5 @@
+Hola, soy Juan Ignacio Rago 👋
+
 <h2> Languajes: </h2>
 
 [<code target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></code>](https://www.oracle.com/ar/java/technologies/)
