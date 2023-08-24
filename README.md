@@ -1,4 +1,4 @@
-Hola, soy Juan Ignacio Rago 👋
+<h1>Hola, soy Juan Ignacio Rago 👋</h1>
 
 <h2> Languajes: </h2>
 
