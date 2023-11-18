@@ -18,6 +18,7 @@
   [<code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdIQXzF-dH-Wf4OjNX72NPheEQVvRJdGWWA&usqp=CAU" title="
   MicrosoftSQLServer" alt="MicrosoftSQLServer" width="40" height="40"/> </code>](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </code>](https://www.mysql.com/)
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> </code>](https://www.mongodb.com/es)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> </code>](https://es.reactjs.org/)
