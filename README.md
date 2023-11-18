@@ -1,4 +1,4 @@
-<h1>Hola, soy Juan Ignacio Rago 👋</h1>
+<h1>Juan Ignacio Rago</h1>
 
 <h2> Languajes: </h2>
 
@@ -12,23 +12,29 @@
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/> </code>](https://www.r-project.org/)
 [<code> <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" title="VisualBasic6.0" alt="VisualBasic6.0" width="40" height="40"/></code>](https://es.wikipedia.org/wiki/Visual_Basic_for_Applications)
 
-<h2> Tecnologias y herramientas: </h2>
+<h2> Bases de datos: </h2>
 
-  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> </code>](https://https://www.postgresql.org/)
+ [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> </code>](https://https://www.postgresql.org/)
   [<code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdIQXzF-dH-Wf4OjNX72NPheEQVvRJdGWWA&usqp=CAU" title="
   MicrosoftSQLServer" alt="MicrosoftSQLServer" width="40" height="40"/> </code>](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </code>](https://www.mysql.com/)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> </code>](https://www.mongodb.com/es)
+
+<h2> Frameworks: </h2>
+  
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> </code>](https://es.reactjs.org/)
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/></code>](https://www.djangoproject.com/)
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/></code>](https://spring.io/)
+
+<h2> Tecnologias y herramientas: </h2>
+
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> </code>](https://es.reactjs.org/)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> </code>](https://linuxmint.com/)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/> </code>](https://www.gnu.org/software/bash/bash.html)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/></code>](https://es.wikipedia.org/wiki/NumPy)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/></code>](https://es.wikipedia.org/wiki/Pandas_(software))
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></code>](https://www.docker.com/)
-  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/></code>](https://www.djangoproject.com/)
-   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/></code>](https://spring.io/)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </code>](https://git-scm.com/doc)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/></code>](https://support.atlassian.com/trello/docs/what-is-trello/)
   
