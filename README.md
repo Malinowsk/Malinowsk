@@ -1,4 +1,21 @@
-<h1>Juan Ignacio Rago</h1>
+<h1>Hola, me llamo Juan Ignacio</h1>
+
+<p>
+ 👨‍💻 Soy un estudiante avanzado de Ingeniería de Sistemas y Desarrollador de Aplicaciones Informáticas con una sólida formación académica respaldada por la Universidad Nacional del Centro de la Provincia de Buenos Aires.
+
+🔥 Apasionado por la tecnología y el desarrollo de software, cuento con experiencia en el desarrollo y mantenimiento de software en entornos profesionales.
+
+🚀 Mis habilidades técnicas abarcan un amplio espectro:
+</p>
+<ul>
+ <li>Lenguajes de programación: Tengo dominio en lenguajes como Java, C#, Python y JavaScript.</li>
+  <li>Bases de datos: Tengo experiencia tanto en bases de datos SQL como en NoSQL.</li>
+  <li>Desarrollo web: He trabajado con tecnologías como HTML5, CSS3, Spring Boot, Django y React Js.</li>
+</ul>
+<p>
+🌟 Busco constantemente nuevos desafíos donde pueda aplicar y seguir desarrollando mis habilidades técnicas, contribuyendo al crecimiento de proyectos innovadores y colaborando en equipos multidisciplinarios.
+</p>
+
 
 <h2> Languajes: </h2>
 
