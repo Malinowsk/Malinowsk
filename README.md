@@ -10,7 +10,7 @@
 <ul>
  <li>Lenguajes de programación: Tengo dominio en lenguajes como Java, C#, Python y JavaScript.</li>
   <li>Bases de datos: Tengo experiencia tanto en bases de datos SQL como en NoSQL.</li>
-  <li>Desarrollo web: He trabajado con tecnologías como HTML5, CSS3, Spring Boot, Django y React Js.</li>
+  <li>Desarrollo web: He trabajado con tecnologías como HTML5, CSS3, .NET, ASP.NET Core, Spring Boot, Django, Angular y React Js.</li>
 </ul>
 <p>
 🌟 Busco constantemente nuevos desafíos donde pueda aplicar y seguir desarrollando mis habilidades técnicas, contribuyendo al crecimiento de proyectos innovadores y colaborando en equipos multidisciplinarios.
