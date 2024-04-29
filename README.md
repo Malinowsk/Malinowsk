@@ -44,6 +44,8 @@
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/> </code>](https://angular.io/)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/></code>](https://www.djangoproject.com/)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/></code>](https://spring.io/)
+  [<code> <img src="https://codeopinion.com/wp-content/uploads/2018/07/Bitmap-MEDIUM_ASP.NET-Core-Logo_2colors_Square_RGB.png" title="ASP.NET Core" alt="ASP.NET Core" width="40" height="40"/></code>](https://dotnet.microsoft.com/es-es/learn/aspnet/what-is-aspnet-core)
+
 
 <h2> Tecnologias y herramientas: </h2>
 
