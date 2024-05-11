@@ -26,6 +26,7 @@
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/></code>](https://www.typescriptlang.org/docs/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> </code>](https://www.python.org/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/> </code>](https://dart.dev/guides)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> </code>](https://www.php.net/)
 [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/> </code>](https://www.r-project.org/)
 [<code> <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" title="VisualBasic6.0" alt="VisualBasic6.0" width="40" height="40"/></code>](https://es.wikipedia.org/wiki/Visual_Basic_for_Applications)
@@ -40,6 +41,7 @@
 
 <h2> Frameworks: </h2>
   
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/> </code>](https://docs.flutter.dev/)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> </code>](https://es.reactjs.org/)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/> </code>](https://angular.io/)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/></code>](https://www.djangoproject.com/)
